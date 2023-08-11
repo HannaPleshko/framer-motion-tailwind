@@ -22,11 +22,11 @@ Follow these instructions to set up the project locally on your machine.
    ```bash
    npm install
    ```
-
 3. Start the Development Server:
-```bash
-npm run dev
-```
+
+   ```bash
+   npm run dev
+   ```
 
 4. Open in Browser:
 Visit http://localhost:3000 in your browser to see the animation and modal effects in action.
